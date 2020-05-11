@@ -1,9 +1,9 @@
 .navbar{
-    background-color: rgb(100, 169, 230);
+    background-color: rgb(121, 168, 204);
 }
 
 .quem-somos{
-    background-color:rgb(176, 210, 245);
+    background-color:rgb(205, 230, 248);
 }
 
 .margin{
@@ -12,17 +12,17 @@
 }
 
 .servicos{
-    background-color: rgb(176, 210, 245);
+    background-color: rgb(205, 230, 248);
 }
 
 .parceiros{
-    background-color: rgb(231, 232, 233);
+    background-color: rgb(205, 230, 248);
 }
 
 .contato{
-    background-color: rgb(231, 232, 233);
+    background-color: rgb(205, 230, 248);
 }
 .bg-footer{
-    background-color:  rgb(231, 232, 233);
+    background-color:  rgb(205, 230, 248);
     color: black;
 }
